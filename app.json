@@ -1,0 +1,7 @@
+{
+    "name": "Canary",
+    "description": "A barebones canary implementation in ruby",
+    "repository": "https://github.com/agens-no/Canary",
+    "logo": "https://avatars0.githubusercontent.com/u/18738939?s=200&v=4",
+    "keywords": ["canary", "honeypot", "ruby", "slack"]
+  }
